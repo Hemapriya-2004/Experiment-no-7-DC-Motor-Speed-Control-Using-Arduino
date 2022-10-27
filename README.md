@@ -32,8 +32,8 @@ As shown in the circuit diagram we need only 3 Arduino terminal pins, pin 8 is f
 
 ### PRGORAM 
 ```
-NAME:V.A.JITHENDRA
-REG.NO:212221230043
+NAME:R.HEMA PRIYA
+REG.NO:212221230036
 
 ```
 ### Normal RPM:
